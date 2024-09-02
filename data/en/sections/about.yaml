@@ -8,12 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Ethical Hacker
-
-# your company information
-company:
-  name: CyberSecurity Gubser
-  url: "https://www.aysoli.li"
+designation: Ethical Hacker and BugBounty Hunter
 
 # a summary about you
 summary: "I’m a cybersecurity professional with a deep passion for uncovering vulnerabilities and securing digital environments. My journey in cybersecurity began with a fascination for how systems work—and how they can be broken. Today, I channel that curiosity into helping individuals and companies protect their data and infrastructure from cyber threats. Through this blog, I share my experiences, insights, and practical advice on identifying weaknesses, fortifying defenses, and staying one step ahead of cybercriminals. Whether you're a fellow security enthusiast or a business owner looking to secure your operations, I'm here to guide you through the complex world of cybersecurity."
