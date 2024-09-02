@@ -16,7 +16,7 @@ company:
   url: "https://www.aysoli.li"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: "I’m a cybersecurity professional with a deep passion for uncovering vulnerabilities and securing digital environments. My journey in cybersecurity began with a fascination for how systems work—and how they can be broken. Today, I channel that curiosity into helping individuals and companies protect their data and infrastructure from cyber threats. Through this blog, I share my experiences, insights, and practical advice on identifying weaknesses, fortifying defenses, and staying one step ahead of cybercriminals. Whether you're a fellow security enthusiast or a business owner looking to secure your operations, I'm here to guide you through the complex world of cybersecurity."
 
 # social media
 socialLinks:
@@ -28,9 +28,13 @@ socialLinks:
   icon: "fab fa-github"
   url: "https://www.github.com/sl0th0x87"
 
-- name: LinkedIn
-  icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/mike-gubser-79075128a/"
+- name: X
+  icon: "fab fa-square-x-twitter"
+  url: "https://www.twitter.com/sl0th0x87"
+
+- name: Bluesky
+  icon: "fab fa-bluesky"
+  url: "https://bsky.app/profile/sl0th0x87.bsky.social"
 
 # Skills and certifications
 badges:
@@ -47,7 +51,7 @@ badges:
 - type: certification
   name: HackTheBox
   url: "https://app.hackthebox.com/profile/819087"
-  badge: "https://silofy.gallerycdn.vsassets.io/extensions/silofy/hackthebox/0.2.9/1629722910669/Microsoft.VisualStudio.Services.Icons.Default"
+  badge: "https://avatars.githubusercontent.com/u/31746234?s=280&v=4"
 
 - type: soft-skill-indicator
   name: WebApp Pentesting
