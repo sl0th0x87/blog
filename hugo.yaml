@@ -46,7 +46,7 @@ outputs:
     - JSON
 
 # Enable global emoji support
-enableEmoji: true
+enableEmoji: false
 
 # Site parameters
 params:
