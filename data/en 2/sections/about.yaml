@@ -1,0 +1,65 @@
+# Sections
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Ethical Hacker
+
+# your company information
+company:
+  name: CyberSecurity Gubser
+  url: "https://www.aysoli.li"
+
+# a summary about you
+summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+
+# social media
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "sl0th0x87@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/sl0th0x87"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/mike-gubser-79075128a/"
+
+# Skills and certifications
+badges:
+- type: certification
+  name: HackerOne
+  url: "https://hackerone.com/sl0th0x87?type=user"
+  badge: "https://www.hackerone.com/themes/hacker_one/images/branding/h1-logo.png"
+
+- type: certification
+  name: Bugcrowd
+  url: "https://bugcrowd.com/sl0th0x87"
+  badge: "https://www.bugcrowd.com/wp-content/uploads/2023/02/Press-Kit-Transparent-Hex-B.png"
+
+- type: certification
+  name: HackTheBox
+  url: "https://app.hackthebox.com/profile/819087"
+  badge: "https://silofy.gallerycdn.vsassets.io/extensions/silofy/hackthebox/0.2.9/1629722910669/Microsoft.VisualStudio.Services.Icons.Default"
+
+- type: soft-skill-indicator
+  name: WebApp Pentesting
+  percentage: 80
+  color: blue
+
+- type: soft-skill-indicator
+  name: Network Pentesting
+  percentage: 80
+  color: orange
+
+- type: soft-skill-indicator
+  name: IT Security Consutling
+  percentage: 90
+  color: yellow
