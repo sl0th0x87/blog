@@ -70,6 +70,10 @@ params:
     toc:
       enable: true
 
+    # Enable & configure "Notes" features
+    notes:
+      enable: true
+
   # Configure footer
   footer:
     enable: true
@@ -79,4 +83,10 @@ params:
       enable: false
 
   # Background images
-  background: "images/background.jpg"
+  background: "images/site/background.jpg"
+
+  # Logo and favicon
+  #logo:
+    #main: /images/site/main-logo.png
+    #inverted: /images/site/inverted-logo.png
+    #favicon: /images/site/favicon.png
