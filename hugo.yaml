@@ -65,10 +65,23 @@ params:
     # Enable blog posts
     blog:
       enable: true
+      showAuthor: true
 
     # Enable Table of contents in reading page
     toc:
+      enable: false
+
+    # Enable tags
+    tags:
       enable: true
+      on_card: true
+
+    syntaxHighlight:
+      enable: true
+      services:
+        hljs:
+          # see: https://highlightjs.readthedocs.io/en/latest/api.html#configure
+          noHighlightRe: /^no-highlight$/i
 
     # Enable & configure "Notes" features
     notes:
@@ -81,6 +94,9 @@ params:
     # Disable Newsletter
     newsletter:
       enable: false
+
+    disclaimer:
+      enable: true
 
   # Background images
   background: "images/site/background.jpg"
