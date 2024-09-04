@@ -58,7 +58,7 @@ params:
     portfolio:
       enable: false
     darkMode:
-      enable: false
+      enable: true
     comment:
       enable: false
 
